@@ -5,40 +5,45 @@
 </head>
 <body>
 
-<h1> </h1>
-<p>  </p>
+<h1>Stephen Curry</h1>
+<p>Wardell Stephen Curry II (/ˈstɛfən/ STEF-ən; born March 14, 1988[1]) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). He plays the point guard position, and is widely regarded as one of the greatest point guards of all time. Many analysts and players have called him the greatest shooter in NBA history.[2]   
+</p>
 
 <div align="center">
-<img src="Mortal.png">
+<img src="https://www.basketball-reference.com/req/202106291/images/players/curryst01.jpg">
 </div>
 <br>
 <br>
-<p> </p>
+<p>The son of former NBA player Dell and older brother of current NBA player Seth, Curry played college basketball for the Davidson Wildcats. He set the all-time scoring record for both Davidson and the Southern Conference and was twice named the conference's player of the year. During his sophomore year, Curry also set the single-season NCAA record for three-pointers made, and was then selected by the Warriors with the seventh overall pick in the 2009 NBA Draft.
+</p>
  
 
 <table border="1" align="center">
   <tr>
-    <td></td>
-    <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>G</td>
+  <td>PTS</td>
+  <td>TRB</td>
+  <td>AST</td>
+  <td>FG</td>
    
   </tr>
+  
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-   <td></td>
-   <td></td>
+    <td>27</td>
+    <td>26.9</td>
+    <td>14.3</td>
+   <td>12</td>
+   <td>80%</td>
   </tr>
+  
   <tr>
-    <td></td>
-    <td></td>
-   <td></td>
-   <td></td>
- <td></td>
+    <td>789</td>
+    <td>24.3</td>
+   <td>5.6</td>
+   <td>4.3</td>
+ <td>60%</td>
   </tr>
+  
 </table>
 
 
